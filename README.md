@@ -1,16 +1,17 @@
 ## Hello World.. 👋
 
-### My name is Amine Kawani. I'm DevOps architect ! 🤖
-- 👀 I’m interested in Open Source projects (Linux, CNCF, GitOps and Tools)
-- 📚 I’m currently increasing my skills on Azure, OCP, Python, Backstage and some automations tools like Argo (CD, Autopilot, Events, Rollouts and Workflows).
+### My name is Amine Kawani. I'm a DevOps architect! 🤖
+- 👀 I’m interested in Open Source projects (Linux, CNCF, GitOps, and Tools).
+- 📚 I’m currently increasing my skills in Azure, OCP, Python, Backstage, and some automation tools like Argo (CD, Autopilot, Events, Rollouts, and Workflows).
 - 🌱 Goals: Increase my sysAdmin skills.
+
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <a href="docs.docker.com/engine/swarm" target="_blank" rel="noreferrer"> 
+  <a href="https://docs.docker.com/engine/swarm" target="_blank" rel="noreferrer"> 
     <img src="https://landscape.cncf.io/logos/docker-swarm.svg" alt="Docker Swarm" width="40" height="40"/> </a>
 
-  <a href="github.com/features/actions" target="_blank" rel="noreferrer"> 
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> 
     <img src="https://landscape.cncf.io/logos/git-hub-actions.svg" alt="GitHub Actions" width="40" height="40"/> </a>
     
   <a href="https://gitlab.com/" target="_blank" rel="noreferrer"> 
@@ -19,11 +20,11 @@
   <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> 
     <img src="https://landscape.cncf.io/logos/argo.svg" alt="ArgoCD" width="40" height="40"/> </a>
 
-  <a href="github.com/chaos-mesh/chaos-mesh" target="_blank" rel="noreferrer"> 
+  <a href="https://github.com/chaos-mesh/chaos-mesh" target="_blank" rel="noreferrer"> 
     <img src="https://landscape.cncf.io/logos/chaos-mesh.svg" alt="Chaos Mesh" width="40" height="40"/> </a>
     
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
-    <img src="https://landscape.cncf.io/logos/jenkins.svg" alt="Jenkins" width="40" height="40"/> </a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer" style="background-color: yellow;"> 
+    <img src="https://landscape.cncf.io/logos/jenkins.svg" alt="Jenkins" width="40" height="40" /> </a>
 
   <a href="https://tekton.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://landscape.cncf.io/logos/tekton-pipelines.svg" alt="Tekton Pipelines" width="40" height="40"/> </a>
@@ -32,25 +33,25 @@
     <img src="https://www.kindpng.com/picc/m/159-1595848_python-logo-png-transparent-background-python-logo-png.png" alt="Python" width="40" height="40"/> </a>
   
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
-    <img src="https://toppng.com/uploads/preview/vscode-visual-studio-code-11562929010rwlaaoeohl.png"" alt="Visual Studio Code" width="40" height="40"/> </a>
+    <img src="https://toppng.com/uploads/preview/vscode-visual-studio-code-11562929010rwlaaoeohl.png" alt="Visual Studio Code" width="40" height="40"/> </a>
    
   <a href="https://www.vmware.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://icon-library.com/images/vmware-icon/vmware-icon-22.jpg" alt="Linux" width="40" height="40"/> </a>
+    <img src="https://icon-library.com/images/vmware-icon/vmware-icon-22.jpg" alt="VMware" width="40" height="40"/> </a>
     
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"> 
-    <img src="https://toppng.com/uploads/preview/tux-linux-logo-start-button-icon-linux-11562927335gdm2cpaczy.png"" alt="Linux" width="40" height="40"/> </a>
+    <img src="https://toppng.com/uploads/preview/tux-linux-logo-start-button-icon-linux-11562927335gdm2cpaczy.png" alt="Linux" width="40" height="40"/> </a>
     
   <a href="https://www.redhat.com" target="_blank" rel="noreferrer"> 
-    <img src="https://seeklogo.com/images/R/redhat-logo-259A623E59-seeklogo.com.png"" alt="Linux" width="40" height="40"/> </a>
+    <img src="https://seeklogo.com/images/R/redhat-logo-259A623E59-seeklogo.com.png" alt="Red Hat" width="40" height="40"/> </a>
     
   <a href="https://www.vim.org" target="_blank" rel="noreferrer"> 
-    <img src="https://img2.gratispng.com/20181211/wez/kisspng-vim-text-editor-unix-linux-5c0f76fc794c21.0370307015445173724968.jpg"" alt="Vim" width="40" height="40"/> </a>
+    <img src="https://img2.gratispng.com/20181211/wez/kisspng-vim-text-editor-unix-linux-5c0f76fc794c21.0370307015445173724968.jpg" alt="Vim" width="40" height="40"/> </a>
   
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"" alt="MySQL" width="40" height="40"/> </a>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" width="40" height="40"/> </a>
   
   <a href="https://www.docker.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"" alt="Docker" width="40" height="40"/> </a>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" width="40" height="40"/> </a>
   
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="Kubernetes" width="40" height="40"/> </a>
@@ -104,18 +105,17 @@
     <img src="https://devopy.io/wp-content/uploads/2019/02/bell_260.svg" alt="Alertmanager" width="40" height="40"/> </a>
     
   <a href="https://www.graylog.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/graylog/graylog-icon.svg" alt="graylog" width="40" height="40"/> </a>
+    <img src="https://www.vectorlogo.zone/logos/graylog/graylog-icon.svg" alt="Graylog" width="40" height="40"/> </a>
 
   <a href="https://dynatrace.com" target="_blank" rel="noreferrer"> 
     <img src="https://landscape.cncf.io/logos/dynatrace.svg" alt="Dynatrace" width="40" height="40"/> </a>
     
   <a href="https://newrelic.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://landscape.cncf.io/logos/new-relic.svg" alt="new-relic" width="40" height="40"/> </a>
+    <img src="https://landscape.cncf.io/logos/new-relic.svg" alt="New Relic" width="40" height="40"/> </a>
 
-  <a href="github.com/goharbor/harbor" target="_blank" rel="noreferrer"> 
+  <a href="https://github.com/goharbor/harbor" target="_blank" rel="noreferrer"> 
     <img src="https://landscape.cncf.io/logos/harbor.svg" alt="Harbor" width="40" height="40"/> </a>
     
-  <a href="https://newrelic.com/" target="_blank" rel="noreferrer" />
 </p>
 
 <br/>
