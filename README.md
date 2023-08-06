@@ -7,14 +7,14 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="40" height="40"/> </a>
+  <a href="docs.docker.com/engine/swarm" target="_blank" rel="noreferrer"> 
+    <img src="https://landscape.cncf.io/logos/docker-swarm.svg" alt="Docker Swarm" width="40" height="40"/> </a>
 
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub" width="40" height="40"/> </a>
+  <a href="github.com/features/actions" target="_blank" rel="noreferrer"> 
+    <img src="https://landscape.cncf.io/logos/git-hub-actions.svg" alt="GitHub Actions" width="40" height="40"/> </a>
     
   <a href="https://gitlab.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn2.iconfinder.com/data/icons/social-network-round-gloss-shine/512/gitlab.png" alt="GitLab" width="40" height="40"/> </a>
+    <img src="https://landscape.cncf.io/logos/git-lab.svg" alt="GitLab" width="40" height="40"/> </a>
   
   <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> 
     <img src="https://landscape.cncf.io/logos/argo.svg" alt="ArgoCD" width="40" height="40"/> </a>
@@ -23,8 +23,11 @@
     <img src="https://landscape.cncf.io/logos/chaos-mesh.svg" alt="Chaos Mesh" width="40" height="40"/> </a>
     
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="Jenkins" width="40" height="40"/> </a>
-       
+    <img src="https://landscape.cncf.io/logos/jenkins.svg" alt="Jenkins" width="40" height="40"/> </a>
+
+  <a href="https://tekton.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://landscape.cncf.io/logos/tekton-pipelines.svg" alt="Tekton Pipelines" width="40" height="40"/> </a>
+    
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.kindpng.com/picc/m/159-1595848_python-logo-png-transparent-background-python-logo-png.png" alt="Python" width="40" height="40"/> </a>
   
@@ -90,16 +93,28 @@
     
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> 
     <img src="https://landscape.cncf.io/logos/prometheus.svg" alt="Prometheus" width="40" height="40"/> </a>
+    
   <a href="https://grafana.com/" target="_blank" rel="noreferrer"> 
     <img src="https://seeklogo.com/images/G/grafana-logo-15BA0AFA8A-seeklogo.com.png" alt="Grafana" width="40" height="40"/> </a>
+    
   <a href="https://grafana.com/oss/loki/" target="_blank" rel="noreferrer"> 
     <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_200,h_200/https://api.charmhub.io/api/v1/media/download/charm_VpRGTlLZZh1ON756aodclPgvrXBZHrCN_icon_94116c13f30075da6fb24e8e76ddf8d81abb146842d90934fb4aa10dc48d7101.png" alt="Loki" width="40" height="40"/> </a>
+    
   <a href="https://prometheus.io/docs/alerting/latest/alertmanager/" target="_blank" rel="noreferrer"> 
     <img src="https://devopy.io/wp-content/uploads/2019/02/bell_260.svg" alt="Alertmanager" width="40" height="40"/> </a>
+    
   <a href="https://www.graylog.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/graylog/graylog-icon.svg" alt="graylog" width="40" height="40"/> </a>
+
+  <a href="https://dynatrace.com" target="_blank" rel="noreferrer"> 
+    <img src="https://landscape.cncf.io/logos/dynatrace.svg" alt="Dynatrace" width="40" height="40"/> </a>
+    
   <a href="https://newrelic.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/new-relic.svg" alt="new-relic" width="40" height="40"/> </a>
+    <img src="https://landscape.cncf.io/logos/new-relic.svg" alt="new-relic" width="40" height="40"/> </a>
+
+  <a href="github.com/goharbor/harbor" target="_blank" rel="noreferrer"> 
+    <img src="https://landscape.cncf.io/logos/harbor.svg" alt="Harbor" width="40" height="40"/> </a>
+    
   <a href="https://newrelic.com/" target="_blank" rel="noreferrer" />
 </p>
 
